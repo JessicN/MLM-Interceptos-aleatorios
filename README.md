@@ -1,2 +1,2 @@
 # MLM-Interceptos-aleatorios
-Funcion y grafica de Modelos lineales Mixtos interceptos aleatorios
+Funcion y grafica Modelo lineal Mixto con intercepto aleatorio
